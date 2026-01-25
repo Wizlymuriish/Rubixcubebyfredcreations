@@ -136,6 +136,9 @@ body {
 	color: rgba(0, 0, 0, 0.5);
 	z-index: 1;
 }
+.h2{
+	size:50px;
+}
 .range--type-color:not(:last-child) {
 	margin-bottom: 1em;
 }
